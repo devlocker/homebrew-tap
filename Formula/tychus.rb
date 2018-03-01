@@ -1,9 +1,9 @@
 class Tychus < Formula
   desc "Command line utility to live-reload your application."
   homepage "https://github.com/devlocker/tychus"
-  url "https://github.com/devlocker/tychus/releases/download/v0.6.0/tychus_0.6.0_darwin_amd64.tar.gz"
-  version "0.6.0"
-  sha256 "860fcb39636c801ebf2ef3b7f1bd323e980ea622ab036ab4a3a031dbbe637a17"
+  url "https://github.com/devlocker/tychus/releases/download/v0.6.2/tychus_0.6.2_darwin_amd64.tar.gz"
+  version "0.6.2"
+  sha256 "5e954057137941710d8777a48a3d1110337484a09e3257121bfeb971ad52c46b"
 
   def install
     bin.install "tychus"
